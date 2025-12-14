@@ -51,5 +51,4 @@ public class ProductCreatedEvent {
     public void setQuantity(Integer quantity) {
         this.quantity = quantity;
     }
-
 }
